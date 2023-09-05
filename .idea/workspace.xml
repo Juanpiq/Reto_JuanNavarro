@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2f9e4f3-2a20-470e-9f36-fa244046cb30" name="Changes" comment="Ingresar Address">
+    <list default="true" id="b2f9e4f3-2a20-470e-9f36-fa244046cb30" name="Changes" comment="Ingresar datos de dispositivos">
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/tasks/Report.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/userinterface/ReportDevicesPage.java" afterDir="false" />
@@ -18,6 +18,7 @@
       <change afterPath="$PROJECT_DIR$/target/site/serenity/07af95fcfeeb0b817507f41bc74c6e89dd92c56b0823334baee5437ad0d6434b.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/0981e9e20239892817b0812184ddbedcc81b622d64f01234efd26f581c380ebb.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/098a685b82d5657eda7b5af32048cb815db7b380569272578481fd51120ea28c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/0ce8e1a9cffb8da9b2b5bdd63a0e3ab79cfe8dd013cf8baae27978a963685a8d.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/0cf8eb1effb5e0c0a648aa55836cd0c0e8fdd0aacc8968a791e458ae8fcb4d1e.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/0d25e1403985d01760c027a1f48e1d7234122b234107dd10103c010e9a5c980d.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/0dec5db0560a0e6fd368990b45f634491bb83a497a510eba36b3f80c69ee20a7.png" afterDir="false" />
@@ -150,6 +151,7 @@
       <change afterPath="$PROJECT_DIR$/target/site/serenity/83abddff18ca84c88886a988136051f41abba5acdb0b1ea6f3bc0dce9701f529.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/84a463aec038c676b4e78f03219583d401d1a98e7539f82459988e514107690f.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/84c8ce0d92a02133ad240e11ea7bbd459b05a17838b3758532d9050ae099518b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/858effbd8ace0fc8dd1ba6d059bd46dcdd969bdffdf71554d5879c4df1d9ad40.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/85cc3ebe30b3111bead443a96d1fbe04d96c15bbc2e9459e8cb821fa448d8eed.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/860b353f07bbf724b36616258a6e57b97539010890e5f19cd5a645b35f1a70dd.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/8804d428055eec6d2617a752b173d240811ec11aa8a29704bb1f15eb9562dacd.png" afterDir="false" />
@@ -170,6 +172,7 @@
       <change afterPath="$PROJECT_DIR$/target/site/serenity/91e8a71e5f9907ca8753d2cf4eb48482f6e534fcf794c11b6401aa7541200f8c.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/92257eea1b85e9650ed58e35565693813ef691482f3b4ac443253f5f56cb1b14.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/92ef1aa35003bd9a9b7eace7f1c2bc2166742bb61d4e0fff8cc457fb14cc67a7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/94047cabf137f232cc4a4e253f2ba514de6c7b894d64c2d2dd33576f4b8fc343.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/949c50588e11c7a6facee4b863cbfb435b691df44d9443e46c97ed710e3fe87f.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/949d3187a6dbd4ea04c77b1c583be9c65e5905083569b043acae5cda02ab9dd7.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/958ff5cc3f8b43f673ebac1881794a6be593e5817daed5ed8fc9aff45d349057.png" afterDir="false" />
@@ -251,6 +254,7 @@
       <change afterPath="$PROJECT_DIR$/target/site/serenity/d84659c79563b61a4ae308d376f48190b21d5cfb82d7787b932c950b8169bb0d.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/d9e768a13facd12ebd28023f69e3bcf4d747ee468d4e33e8f4489e6d2193cfc4.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/da5b206e4a396e82bd0709501e9d33dce66223b95a2ee37d9fa99cfc883bf51b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/db1b09aa336be1f80c5d1ede390afcfb7f620e3dc85d143ce7f3a08c90b876b8.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/dcbf64da425e80b1c34b8a79efe4ebced7072813e39406dee5492b828531b85a.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/dcd492fc53646eb67dfc9e6fa13ee28d998a3828029e179ed98a21b458345dea.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/site/serenity/dd022cbb1a00556b2d7e35c5d62f8574f2f36ba5fa5b9a0aa08e9aa609de0484.png" afterDir="false" />
@@ -521,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693893228550</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Ingresar datos de dispositivos">
+      <created>1693930880970</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1693930880970</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -543,6 +554,7 @@
     <MESSAGE value="Aplica el Join Today" />
     <MESSAGE value="Ingresar Datos Personales" />
     <MESSAGE value="Ingresar Address" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ingresar Address" />
+    <MESSAGE value="Ingresar datos de dispositivos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ingresar datos de dispositivos" />
   </component>
 </project>
