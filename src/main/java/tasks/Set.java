@@ -19,7 +19,7 @@ public class Set implements Task {
         actor.attemptsTo(
                 Enter.theValue("Juan").into(SetPage.INPUT_FIRSTNAME),
                 Enter.theValue("Navarro").into(SetPage.INPUT_LASTNAME),
-                Enter.theValue("jpablonavarroq@hotmail.com").into(SetPage.INPUT_EMAIL),
+                Enter.theValue("jpablonavarro@hotmail.com").into(SetPage.INPUT_EMAIL),
                 Click.on(SetPage.OPTION_MONTH),
                 Click.on(SetPage.OPTION_DAY),
                 Click.on(SetPage.OPTION_YEAR),

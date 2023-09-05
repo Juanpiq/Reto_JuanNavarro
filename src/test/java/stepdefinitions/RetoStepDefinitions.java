@@ -38,7 +38,7 @@ public class RetoStepDefinitions {
 
     @And("^he insert a Password$")
     public void heInsertAPassword() {
-
+        OnStage.theActorInTheSpotlight().attemptsTo(Generate.newPassword());
     }
 
     @Then("^he can create a New Account$")

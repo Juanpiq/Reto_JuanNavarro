@@ -20,12 +20,15 @@ public class Submit implements Task {
                 Enter.theValue("0000").into(SubmitAddressPage.INPUT_ZIP));
 
         try {
-            Thread.sleep(15000); // Pausa de 15 segundos (15000 milisegundos)
+            Thread.sleep(5000); // Pausa de 5 segundos (5000 milisegundos)
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
 
-        actor.attemptsTo(Click.on(SubmitAddressPage.BUTTON_NEXT)
+        actor.attemptsTo(
+                Click.on(SubmitAddressPage.BUTTON_Country),
+                Click.on(SubmitAddressPage.LABEL_COUNTRY),
+                Click.on(SubmitAddressPage.BUTTON_NEXT)
         );
     }
 }

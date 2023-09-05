@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2f9e4f3-2a20-470e-9f36-fa244046cb30" name="Changes" comment="Ingresar datos de dispositivos" />
+    <list default="true" id="b2f9e4f3-2a20-470e-9f36-fa244046cb30" name="Changes" comment="Ingresar datos de dispositivos">
+      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/Generate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/userinterface/GenerateNewPasswordPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/Submit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/Submit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/userinterface/SubmitAddressPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/userinterface/SubmitAddressPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/RetoStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/RetoStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47_screenshots.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693931161142</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Ingresar datos de dispositivos">
+      <created>1693931387925</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693931387925</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
