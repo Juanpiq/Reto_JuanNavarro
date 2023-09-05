@@ -15,12 +15,17 @@ public class Submit implements Task {
 
     @Override
     public <T extends Actor> void performAs(T actor) {
+
         actor.attemptsTo(
-                //Enter.theValue("Panama City").into(SubmitAddressPage.INPUT_CITY),
-                Enter.theValue("0000").into(SubmitAddressPage.INPUT_ZIP),
-                /*Click.on(SubmitAddressPage.LABEL_Country),
-                Enter.theValue("Panama").into(SubmitAddressPage.INPUT_COUNTRY),*/
-                Click.on(SubmitAddressPage.BUTTON_NEXT)
+                Enter.theValue("0000").into(SubmitAddressPage.INPUT_ZIP));
+
+        try {
+            Thread.sleep(15000); // Pausa de 15 segundos (15000 milisegundos)
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        actor.attemptsTo(Click.on(SubmitAddressPage.BUTTON_NEXT)
         );
     }
 }

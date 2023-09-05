@@ -7,10 +7,7 @@ import cucumber.api.java.en.When;
 import cucumber.api.java.en.And;
 import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
-import tasks.Join;
-import tasks.OpenUp;
-import tasks.Set;
-import tasks.Submit;
+import tasks.*;
 
 public class RetoStepDefinitions {
 
@@ -36,7 +33,7 @@ public class RetoStepDefinitions {
 
     @And("^he insert his Devices Information$")
     public void heInsertHisDevicesInformation() {
-
+        OnStage.theActorInTheSpotlight().attemptsTo(Report.aboutDevices());
     }
 
     @And("^he insert a Password$")
