@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2f9e4f3-2a20-470e-9f36-fa244046cb30" name="Changes" comment="abre el Utest.com">
+    <list default="true" id="b2f9e4f3-2a20-470e-9f36-fa244046cb30" name="Changes" comment="Aplica el Join Today">
+      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/userinterface/SetPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/userinterface/JoinPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/userinterface/JoinPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/RetoStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/RetoStepDefinitions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.html" afterDir="false" />
@@ -136,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693876165093</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Aplica el Join Today">
+      <created>1693885677216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693885677216</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Aplica el Join Today">
+      <created>1693885697733</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693885697733</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +171,7 @@
     <MESSAGE value="creando paquetes del proyecto" />
     <MESSAGE value="formando base del screenplay" />
     <MESSAGE value="abre el Utest.com" />
-    <option name="LAST_COMMIT_MESSAGE" value="abre el Utest.com" />
+    <MESSAGE value="Aplica el Join Today" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aplica el Join Today" />
   </component>
 </project>

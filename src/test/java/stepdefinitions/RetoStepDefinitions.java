@@ -9,6 +9,7 @@ import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
 import tasks.Join;
 import tasks.OpenUp;
+import tasks.Set;
 
 public class RetoStepDefinitions {
 
@@ -24,7 +25,7 @@ public class RetoStepDefinitions {
 
     @When("^he insert his Personal Data$")
     public void heInsertHisPersonalData() {
-
+        OnStage.theActorInTheSpotlight().attemptsTo(Set.personalData());
     }
 
     @And("^he insert his Address$")
