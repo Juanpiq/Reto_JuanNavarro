@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Sign Up Automation" skipped="0" tests="1" time="28.22" timestamp="2023-09-04 03:00:37"><testcase name="Sign Up in Utest.com"><failure message="&#10;Expected: an element that is visible&#10;     but: no matching element found by className: unauthenticated-nav-bar__dropdown-menu-sign-up" type="java.lang.AssertionError">
-Expected: an element that is visible
-     but: no matching element found by className: unauthenticated-nav-bar__dropdown-menu-sign-up</failure><system-err>
-Expected: an element that is visible
-     but: no matching element found by className: unauthenticated-nav-bar__dropdown-menu-sign-up&#13;
-tasks.Join.performAs(Join.java:21)&#13;
-stepdefinitions.RetoStepDefinitions.thanJuanWantsToSignUpAtUtestCom(RetoStepDefinitions.java:21)&#13;
-cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
-worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)&#13;
-worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)&#13;
-</system-err></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Sign Up Automation" skipped="0" tests="1" time="12.32" timestamp="2023-09-04 10:16:43"><testcase name="Sign Up in Utest.com"/></testsuite>

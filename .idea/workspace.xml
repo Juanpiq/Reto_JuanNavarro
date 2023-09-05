@@ -4,35 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2f9e4f3-2a20-470e-9f36-fa244046cb30" name="Changes" comment="formando base del screenplay">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/Join.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/OpenUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/userinterface/JoinPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/userinterface/UtestPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/3d72904ded76fa95be20235496fd31c4cde69ff7e66fff029ed4f1728b40e52c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/6d8ba4f5a796f0b20c8edbe847e89086bfbe5dc343f984266f927273cda43ba7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/b56b83594dc1d5873fd83eccae7a954a655ba109e383b627f613106c9478b335.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/ba81e9e89bc98e22bd336136648c758eac3501bcbce9742378a52ae34753b21b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47_screenshots.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/cdba7caabb56ca54d164b943c94db991f8e569c2be4c78357395a2d26cc009dc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/e293604d4ce7f316f9bb92b8d1572b437d20cef660435ccf1a09816d6969c3fe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/ee15eefa98438a437cc5192c2efe1b006dcf40b20731aa0a69bb157de1b883ac.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/f03e788e7265bd941695ee263d68123304181bd755ea4fa2ce5fc46324d58c96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource12401343946771495146.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource14925866665631334842.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource18436753615595964842.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource1901475998940696123.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource533019788657398002.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource5870003428326530975.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource762080612094571774.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource7819736209547355733.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource813241003752834802.html.txt" afterDir="false" />
+    <list default="true" id="b2f9e4f3-2a20-470e-9f36-fa244046cb30" name="Changes" comment="abre el Utest.com">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/RetoStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/RetoStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/userinterface/JoinPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/userinterface/JoinPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47_screenshots.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +25,16 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,13 +60,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "last_opened_file_path": "C:/Users/djpab/Documents/Personal/choucair/Reto_JuanNavarro/src/test/resources/driver",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/djpab/Documents/Personal/choucair/Reto_JuanNavarro/src/test/resources/driver&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="tasks" />
@@ -140,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693804525549</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="abre el Utest.com">
+      <created>1693876165093</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693876165093</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +154,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="creando paquetes del proyecto" />
     <MESSAGE value="formando base del screenplay" />
-    <option name="LAST_COMMIT_MESSAGE" value="formando base del screenplay" />
+    <MESSAGE value="abre el Utest.com" />
+    <option name="LAST_COMMIT_MESSAGE" value="abre el Utest.com" />
   </component>
 </project>
