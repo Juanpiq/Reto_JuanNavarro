@@ -9,7 +9,15 @@
   Scenario: Sign Up in Utest.com
     Given than Juan wants to Sign Up at Utest.com
     When he insert his Personal Data
+    |strFirstName|strLastName|strEmail|
+    |Juan        |Navarro    |djpa@gmail.com|
     And he insert his Address
+    |strZip|
+    |0000   |
     And he insert his Devices Information
     And he insert a Password
+    |strPassword|
+    |Choucair_Password#123|
     Then he can create a New Account
+    |strTitleText|
+    |Welcome to the world's largest community of freelance software testers!|

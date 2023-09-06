@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2f9e4f3-2a20-470e-9f36-fa244046cb30" name="Changes" comment="Ingresar datos de dispositivos">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tasks/Generate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/userinterface/GenerateNewPasswordPage.java" afterDir="false" />
+    <list default="true" id="b2f9e4f3-2a20-470e-9f36-fa244046cb30" name="Changes" comment="Agregar password">
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/RetoDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/userinterface/AccountCreated.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/Generate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/Generate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tasks/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/Set.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tasks/Submit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/Submit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/userinterface/SubmitAddressPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/userinterface/SubmitAddressPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/RetoStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/RetoStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Reto_JuanNavarro.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Reto_JuanNavarro.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c3b8216f9040d3df6dee466641d94ff6446dad2e299d41e6f3bcf744a697ef47.html" afterDir="false" />
@@ -75,6 +77,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="questions" />
       <recent name="tasks" />
       <recent name="userinterface" />
     </key>
@@ -205,7 +208,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693931387925</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Agregar password">
+      <created>1693947953611</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1693947953611</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Agregar password">
+      <created>1693948015810</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1693948015810</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,6 +245,7 @@
     <MESSAGE value="Ingresar Datos Personales" />
     <MESSAGE value="Ingresar Address" />
     <MESSAGE value="Ingresar datos de dispositivos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ingresar datos de dispositivos" />
+    <MESSAGE value="Agregar password" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregar password" />
   </component>
 </project>
