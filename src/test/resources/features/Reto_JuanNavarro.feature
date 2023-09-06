@@ -10,7 +10,7 @@
     Given than Juan wants to Sign Up at Utest.com
     When he insert his Personal Data
     |strFirstName|strLastName|strEmail|
-    |Juan        |Navarro    |djpa@gmail.com|
+    |Juan        |Navarro    |juanavarroquintero@gmail.com|
     And he insert his Address
     |strZip|
     |0000   |
